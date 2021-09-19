@@ -5,13 +5,13 @@ Now that we have completed the School District Analysis, the school board suspec
 
 ## Results
 With our School District Analysis modified to exclude the 9th grade reading and math scores from Thomas High School, we can see how if at all our results have changed.
-*How is the district summary affected?
-*How is the school summary affected?
-*How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-*How does replacing the ninth-grade scores affect the following:
-**Math and reading scores by grade
-**Scores by school spending
-**Scores by school size
-**Scores by school type
+- How is the district summary affected?
+- How is the school summary affected?
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- How does replacing the ninth-grade scores affect the following:
+  - Math and reading scores by grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type
 
 ## Summary 
