@@ -26,7 +26,7 @@ With our School District Analysis modified to exclude the 9th grade reading and 
   - Scores by school size? With 1635 students, Thomas High School is classified as a medium school in the district (1000 - 2000 students). Removing the 9th grade reading and math scores impacts the medium school percent passing averages negatively as well. Percent passing math dropped from 94 to 88, the percent passing reading dropped from 97 to 93, and the percent passing overall for medium size schools dropped from 91 to 85.
   - Scores by school type? Thomas High School is classified as a Charter school acording to the district. When we remove the 9th grade scores the percent passing averages drop, but not by as much when considering school spending and school size. The percent passing math dropped from 94 to 90, the percent passing reading dropped from 97 to 93, and the percent passing overall dropped from 90 to 87.
 
-## Summary 
+## Summary (finish after dinner)
 
 
 - The change was more pronounced in the Percent Passing in Math, Reading and the Overall Passing which all dropped one percentage point. Math 75 to 74, Reading 86 to 85, and Overall 65 to 64. 
