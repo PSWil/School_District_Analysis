@@ -27,13 +27,9 @@ With our School District Analysis modified to exclude the 9th grade reading and 
   - Scores by school type? Thomas High School is classified as a Charter school acording to the district. When we remove the 9th grade scores the percent passing averages drop, but not by as much when considering school spending and school size. The percent passing math dropped from 94 to 90, the percent passing reading dropped from 97 to 93, and the percent passing overall dropped from 90 to 87.
 
 ## Summary (finish after dinner)
-
-
-- The change was more pronounced in the Percent Passing in Math, Reading and the Overall Passing which all dropped one percentage point. Math 75 to 74, Reading 86 to 85, and Overall 65 to 64. 
-- Before cleaning the data Thomas High School's overall passing percentage was 91%, after cleaning the data the passing percentage was only 65%.
-- The percent passing math dropped from 93.2 to 66.9, the percent passing reading dropped from 97 to 69.7, and the percent passing overall dropped from 90.6 to 65.1.
-- Thomas High School ranking after removing the scores changed drastically with their district ranking droping from 2nd to 8th when we removed the 9th grade reading and math scores.
-
-(Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade 
-at Thomas High School have been replaced with NaNs.)
+After removing the Thomas High School's 9th grade reading and math scores due to suspected academic dishonesty we could see many pronounced changes in the results of the school districts data but were able to limit the disruption and uncertainty that comes with altering the data. Out of the changes in data that we saw there were four that were most prominent.
+1. While not as striking a figure to witness the district summary was effected visibly by the removal of a single schools 9th grade class reading and math scores was able to drop the percentage passing in math, reading and overall by a full percentage point.
+2. As far as Thomas High School its self the score in math and reading percentage passed was quite drastic. Before cleaning the data Thomas High School's overall passing percentage was 91%, after cleaning the data the passing percentage was only 65%. This is a massive reduction of percentage of students passed, and while it cannot be established at this time that all scores will be invalidated, a fraction of this reduction will still be substantial when it comes to Thomas High School.
+3. Inside of the score above we can see in further detail that Thomas High School scored exceptionally well in its individual reading and math scores with the 9th grade recieving exceptionally high marks. However the removal of this classes scores has a large impact on Thomas HS. The percent passing math dropped from 93.2 to 66.9, the percent passing reading dropped from 97 to 69.7.
+4. Because of the need to remove the 9th grade reading and math scores Thomas High School's ranking the district took a heavy hit. Thomas High School ranking changed drastically with their district ranking droping from 2nd to 8th.
 
